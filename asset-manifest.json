@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dipuchaudhary/robo-reactapp.git/static/css/main.d6c28a0d.chunk.css",
+    "main.js": "/dipuchaudhary/robo-reactapp.git/static/js/main.6882525e.chunk.js",
+    "main.js.map": "/dipuchaudhary/robo-reactapp.git/static/js/main.6882525e.chunk.js.map",
+    "runtime-main.js": "/dipuchaudhary/robo-reactapp.git/static/js/runtime-main.3d8c01dd.js",
+    "runtime-main.js.map": "/dipuchaudhary/robo-reactapp.git/static/js/runtime-main.3d8c01dd.js.map",
+    "static/css/2.036b41f9.chunk.css": "/dipuchaudhary/robo-reactapp.git/static/css/2.036b41f9.chunk.css",
+    "static/js/2.0d1c9e5d.chunk.js": "/dipuchaudhary/robo-reactapp.git/static/js/2.0d1c9e5d.chunk.js",
+    "static/js/2.0d1c9e5d.chunk.js.map": "/dipuchaudhary/robo-reactapp.git/static/js/2.0d1c9e5d.chunk.js.map",
+    "index.html": "/dipuchaudhary/robo-reactapp.git/index.html",
+    "precache-manifest.ae3c4889927bb9788cdfb7ef1ad97917.js": "/dipuchaudhary/robo-reactapp.git/precache-manifest.ae3c4889927bb9788cdfb7ef1ad97917.js",
+    "service-worker.js": "/dipuchaudhary/robo-reactapp.git/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/dipuchaudhary/robo-reactapp.git/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.d6c28a0d.chunk.css.map": "/dipuchaudhary/robo-reactapp.git/static/css/main.d6c28a0d.chunk.css.map",
+    "static/js/2.0d1c9e5d.chunk.js.LICENSE.txt": "/dipuchaudhary/robo-reactapp.git/static/js/2.0d1c9e5d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dipuchaudhary/robo-reactapp.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d8c01dd.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.0d1c9e5d.chunk.js",
+    "static/css/main.d6c28a0d.chunk.css",
+    "static/js/main.6882525e.chunk.js"
+  ]
+}
